@@ -1,27 +1,144 @@
 {
 
-    "posts": [
-  
-      { "id": 1, "title": "Post 1" },
-  
-      { "id": 2, "title": "Post 2" },
-  
-      { "id": 3, "title": "Post 3" }
-  
-    ],
-  
-    "comments": [
-  
-      { "id": 1, "body": "some comment", "postId": 1 },
-  
-      { "id": 2, "body": "some comment", "postId": 1 }
-  
-    ],
-  
-    "profile": {
-  
-      "name": "typicode"
-  
+  "shampoo": [
+
+    { "id": 1, 
+
+     "product_name": "EverPure Sulfate Free Frizz Defy Shampoo",
+
+     "brand":"loreal",
+
+     "price":"6.72"
+
+    },
+
+    { "id": 2, 
+
+     "product_name": "Sleek & Shine Shampoo",
+
+     "brand":"garnier",
+
+     "price":"6.97"
+
+    },
+
+    { 
+      "id" : 3,
+
+     "product_name": "Shea Butter for Natural Hair Sulfate Free Cleansing Creame Shampoo",
+
+     "brand":"Cantu",
+
+     "price":"4.97"
+
+    },
+
+    { "id": 4, 
+
+      "product_name": "Coconut & Hibiscus Curl & Shine Shampoo Sulfate free",
+ 
+      "brand":"Shea Moisture",
+ 
+      "price":"9.97"
+ 
+     }
+
+  ],
+
+  "conditioner": [
+
+    { 
+      "id" : 4,
+
+     "product_name": "EverPure Sulfate Free Frizz Defy Conditioner",
+
+     "brand":"loreal",
+
+     "price":"6.72"
+
+    },
+
+    {
+      "id":5,
+
+     "product_name": "Aussie Paraben Free Total Miracle Conditioner w/ Apricot",
+
+     "brand":"aussie",
+
+     "price":"4.94"
+
+    },
+
+    { "id": 6, 
+
+      "product_name": "Sleek & Shine Conditioner",
+ 
+      "brand":"garnier",
+ 
+      "price":"6.97"
+ 
+     },
+
+    {
+      "id":7,
+
+     "product_name": "Coconut & Hibiscus Curl & shine Conditioner Sulfate free",
+
+     "brand":"Shea Moisture",
+
+     "price":"9.97"
+
     }
-  
+
+  ],
+
+  "leave_in": 
+
+  [
+
+  {
+    "id": 8,
+
+     "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",
+
+     "brand":"Palmer's",
+
+     "price":"5.97"
+
+  },
+
+  { "id": 9, 
+
+    "product_name": "Shea Butter Leave-In Conditioner",
+
+    "brand":"Cantu",
+
+    "price":"5.97"
+
+   },
+
+   { "id": 10, 
+
+    "product_name": "Olive Oil Incredibly Rich Oil Moisturizing Hair Lotion",
+
+    "brand":"ORS",
+
+    "price":"4.97"
+
+   },
+
+  {
+    "id":11,
+
+     "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
+
+     "brand":"shea moisture",
+
+     "price":"8.90"
+
   }
+
+
+    ]
+
+}
