@@ -631,6 +631,99 @@
         "price":"19.00"
    
        }
+    ],
+  "volume":[
+    {
+      "id": 31, 
+
+      "product_name": "Root Pump Plus Humidity Resistance Volumizing Spray",
+   
+      "brand":"Big Sexy Hair",
+   
+      "price":"14.62"
+    }, 
+        {
+      "id": 32, 
+
+      "product_name": "Sky-Hi Volume Volumizing Mouse",
+   
+      "brand":"Garnier Fructis",
+   
+      "price":"3.42"
+    }, 
+        {
+      "id": 33, 
+
+      "product_name": "She's a Tease Volumizing Hair Spray",
+   
+      "brand":"Not Your Mother",
+   
+      "price":"8.56"
+    }, 
+        {
+      "id": 34, 
+
+      "product_name": "Get Pump Volume Foam",
+   
+      "brand":"Designline",
+   
+      "price":"12.99"
+    }, 
+        {
+      "id": 35, 
+
+      "product_name": "Volumizing Mouse Extra Hold",
+   
+      "brand":"White Rain",
+   
+      "price":"12.05"
+    }, 
+        {
+      "id": 36, 
+
+      "product_name": "Style Volumizing Anti Humidity Hair Spray Extra Hold",
+   
+      "brand":"Garnier Fructis",
+   
+      "price":"6.36"
+    }, 
+        {
+      "id": 37, 
+
+      "product_name": "Super Star Volumizing Hair Spray",
+   
+      "brand":"Bed Head",
+   
+      "price":"19.99"
+    }, 
+        {
+      "id": 38, 
+
+      "product_name": "Body Envy Volumizing Mouse With Citrus",
+   
+      "brand":"Herbal Essence",
+   
+      "price":"2.97"
+    }, 
+            {
+      "id": 39, 
+
+      "product_name": "Style Sexy Hair Blow it Up Volumizing Gel Foam",
+   
+      "brand":"Style Sexy Hair",
+   
+      "price":"11.29"
+    }, 
+            {
+      "id": 40, 
+
+      "product_name": "Weightless Volumizing Hair Spray",
+   
+      "brand":"Thicker Fuller Hair",
+   
+      "price":"8.09"
+    }
+    
     ]
 
 }
