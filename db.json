@@ -131,7 +131,7 @@
  
      },
 
-     { "id": 4, 
+     { "id": 13, 
 
       "product_name": "Quenching + Coconut Curls Conditioner",
  
@@ -141,7 +141,7 @@
  
      },
 
-     { "id": 13, 
+     { "id": 14, 
 
       "product_name": "Miracle Curls Curl-Defining Oil Hair Treatment with Jojoba Oil",
  
@@ -160,7 +160,7 @@
   [
 
   {
-    "id": 14,
+    "id": 15,
 
      "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",
 
@@ -170,7 +170,7 @@
 
   },
 
-  { "id": 15, 
+  { "id": 16, 
 
     "product_name": "Shea Butter Leave-In Conditioner",
 
@@ -180,7 +180,7 @@
 
    },
 
-   { "id": 16, 
+   { "id": 17, 
 
     "product_name": "Olive Oil Incredibly Rich Oil Moisturizing Hair Lotion",
 
@@ -190,7 +190,7 @@
 
    },
 
-   { "id": 17, 
+   { "id": 18, 
 
     "product_name": "Argon Oil Curl Activiator Creme",
 
@@ -200,7 +200,7 @@
 
    },
 
-   { "id": 18, 
+   { "id": 19, 
 
     "product_name": "It's A 10 Miracle Leave-In Conditioner",
 
@@ -210,7 +210,7 @@
 
    },
 
-   { "id": 19, 
+   { "id": 20, 
 
     "product_name": "Sleek & Shine Intensely Smooth Leave-In Conditioning creme",
 
@@ -220,7 +220,7 @@
 
    },
 
-   { "id": 20, 
+   { "id": 21, 
 
     "product_name": "Weightless Shine Leave-In Conditioner",
 
@@ -230,7 +230,7 @@
 
    },
 
-   { "id": 4, 
+   { "id": 22, 
 
     "product_name": "Extra Hold Spray",
 
@@ -241,7 +241,7 @@
    },
 
   {
-    "id":21,
+    "id":23,
 
      "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
 
@@ -257,7 +257,7 @@
 
     "oils":
     [
-      { "id": 22, 
+      { "id": 24, 
 
         "product_name": "Mega Thick Formula hair Oil",
    
@@ -267,7 +267,7 @@
    
        },
 
-       { "id": 23, 
+       { "id": 25, 
 
         "product_name": "Jamaican Black caster Oil",
    
@@ -277,7 +277,7 @@
    
        },
 
-       { "id": 24, 
+       { "id": 26, 
 
         "product_name": "Renewing Moroccan Argan Oil",
    
@@ -287,7 +287,7 @@
    
        },
 
-       { "id": 25, 
+       { "id": 27, 
 
         "product_name": "Olive Oil Styling Gel",
    
@@ -297,7 +297,7 @@
    
        },
 
-       { "id": 26, 
+       { "id": 28, 
 
         "product_name": "Nourshing Coconut Oil Weightless Hydrating Oil Mist",
    
@@ -307,7 +307,7 @@
    
        },
 
-       { "id": 4, 
+       { "id": 29, 
 
         "product_name": "100% Extra Virgin Coconunt Oil",
    
@@ -317,7 +317,7 @@
    
        },
 
-       { "id": 27, 
+       { "id": 30, 
 
         "product_name": "Smoothing Super Skinny Serum",
    
