@@ -41,6 +41,27 @@
  
       "price":"9.97"
  
+     },
+
+
+     { "id": 5, 
+
+      "product_name": "Quenching + Coconut Curls Shampoo",
+ 
+      "brand":"OGX",
+ 
+      "price":"5.74"
+ 
+     },
+
+     { "id": 6, 
+
+      "product_name": "Renewing Argan Oil Of Morocco Shampoo",
+ 
+      "brand":"OGX",
+ 
+      "price":"9.97"
+ 
      }
 
   ],
@@ -48,7 +69,7 @@
   "conditioner": [
 
     { 
-      "id" : 4,
+      "id" : 7,
 
      "product_name": "EverPure Sulfate Free Frizz Defy Conditioner",
 
@@ -59,17 +80,17 @@
     },
 
     {
-      "id":5,
+      "id":8,
 
-     "product_name": "Aussie Paraben Free Total Miracle Conditioner w/ Apricot",
+     "product_name": "Paraben Free Total Miracle Conditioner w/ Apricot",
 
-     "brand":"aussie",
+     "brand":"Aussie",
 
      "price":"4.94"
 
     },
 
-    { "id": 6, 
+    { "id": 9, 
 
       "product_name": "Sleek & Shine Conditioner",
  
@@ -80,7 +101,7 @@
      },
 
     {
-      "id":7,
+      "id":10,
 
      "product_name": "Coconut & Hibiscus Curl & shine Conditioner Sulfate free",
 
@@ -88,7 +109,49 @@
 
      "price":"9.97"
 
-    }
+    },
+
+    { "id": 11, 
+
+      "product_name": "Renewing Argan Oil Of Morocco Condtioner",
+ 
+      "brand":"OGX",
+ 
+      "price":"5.74"
+ 
+    },
+
+    { "id": 12, 
+
+      "product_name": "3 Miracle Moist Deep Conditioning Treatment",
+ 
+      "brand":"Aussie",
+ 
+      "price":"4.94"
+ 
+     },
+
+     { "id": 4, 
+
+      "product_name": "Quenching + Coconut Curls Conditioner",
+ 
+      "brand":"OGX",
+ 
+      "price":"5.74"
+ 
+     },
+
+     { "id": 13, 
+
+      "product_name": "Miracle Curls Curl-Defining Oil Hair Treatment with Jojoba Oil",
+ 
+      "brand":"Aussie",
+ 
+      "price":"4.97"
+ 
+     }
+
+
 
   ],
 
@@ -97,7 +160,7 @@
   [
 
   {
-    "id": 8,
+    "id": 14,
 
      "product_name": "Coconut Oil Formula Coconut Oil Leave-in Conditioner",
 
@@ -107,7 +170,7 @@
 
   },
 
-  { "id": 9, 
+  { "id": 15, 
 
     "product_name": "Shea Butter Leave-In Conditioner",
 
@@ -117,7 +180,7 @@
 
    },
 
-   { "id": 10, 
+   { "id": 16, 
 
     "product_name": "Olive Oil Incredibly Rich Oil Moisturizing Hair Lotion",
 
@@ -127,8 +190,58 @@
 
    },
 
+   { "id": 17, 
+
+    "product_name": "Argon Oil Curl Activiator Creme",
+
+    "brand":"Creme of Nature",
+
+    "price":"10.40"
+
+   },
+
+   { "id": 18, 
+
+    "product_name": "It's A 10 Miracle Leave-In Conditioner",
+
+    "brand":"It's A 10",
+
+    "price":"24.99"
+
+   },
+
+   { "id": 19, 
+
+    "product_name": "Sleek & Shine Intensely Smooth Leave-In Conditioning creme",
+
+    "brand":"garnier fructis",
+
+    "price":"3.99"
+
+   },
+
+   { "id": 20, 
+
+    "product_name": "Weightless Shine Leave-In Conditioner",
+
+    "brand":"Kristin Ess",
+
+    "price":"10.00"
+
+   },
+
+   { "id": 4, 
+
+    "product_name": "Extra Hold Spray",
+
+    "brand":"TRESemme",
+
+    "price":"4.49"
+
+   },
+
   {
-    "id":11,
+    "id":21,
 
      "product_name": "Coconut & Hibiscus curl Enhancing Smoothie",
 
@@ -138,7 +251,81 @@
 
   }
 
+  
 
+    ],
+
+    "oils":
+    [
+      { "id": 22, 
+
+        "product_name": "Mega Thick Formula hair Oil",
+   
+        "brand":"DOO GRO",
+   
+        "price":"5.77"
+   
+       },
+
+       { "id": 23, 
+
+        "product_name": "Jamaican Black caster Oil",
+   
+        "brand":"Tropic Isle Living",
+   
+        "price":"7.62"
+   
+       },
+
+       { "id": 24, 
+
+        "product_name": "Renewing Moroccan Argan Oil",
+   
+        "brand":"OGX",
+   
+        "price":"5.49"
+   
+       },
+
+       { "id": 25, 
+
+        "product_name": "Olive Oil Styling Gel",
+   
+        "brand":"ECO Styler",
+   
+        "price":"2.97"
+   
+       },
+
+       { "id": 26, 
+
+        "product_name": "Nourshing Coconut Oil Weightless Hydrating Oil Mist",
+   
+        "brand":"OGX",
+   
+        "price":"5.49"
+   
+       },
+
+       { "id": 4, 
+
+        "product_name": "100% Extra Virgin Coconunt Oil",
+   
+        "brand":"Shea Moisture",
+   
+        "price":"13.88"
+   
+       },
+
+       { "id": 27, 
+
+        "product_name": "Smoothing Super Skinny Serum",
+   
+        "brand":"Paul Mitchell",
+   
+        "price":"19.00"
+   
+       }
     ]
 
 }
